@@ -1,0 +1,26 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Hide Title Bar" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cache la barre de titre"
+          }
+        }
+      }
+    },
+    "Show Title Bar" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montre la barre de titre"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
